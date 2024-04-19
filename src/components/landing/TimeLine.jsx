@@ -48,18 +48,17 @@ export default function TimeLine() {
                   </a>
                   , mengingat prediksi pendaftar mencapai 4 juta orang pada CPNS
                   2024. Persiapkan diri Anda dengan baik agar dapat bersaing
-                  dalam persaingan yang ketat ini.{' '}
-                  <strong>tescpns.online </strong>
+                  dalam persaingan yang ketat ini. <strong>JagoCPNS </strong>
                   hadir untuk mendukung persiapan Anda dengan menyediakan
                   layanan tryout terbaik, memberikan simulasi tes yang mendekati
                   kondisi sesungguhnya. Bergabunglah sekarang, tingkatkan
                   performa Anda, dan raih kesuksesan di ujian CPNS dengan
-                  <strong> tescpns.online</strong>!
+                  <strong> JagoCPNS</strong>!
                 </p>
               </div>
               <div className='flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:bg-orange-600'>
                 <h3 className='text-xl font-semibold'>
-                  Persiapan menuju tes CPNS bersama tescpns.online
+                  Persiapan menuju tes CPNS bersama JagoCPNS
                 </h3>
                 <time className='text-xs tracki uppercase text-gray-600'>
                   Fleksibel
@@ -67,10 +66,10 @@ export default function TimeLine() {
                 <p className='mt-3'>
                   Dalam perjalanan menuju sukses dalam tes CPNS 2024, mari
                   bergabung dalam perjalanan persiapan bersama{' '}
-                  <strong>tescpns.online</strong>! Kami hadir untuk membimbing
-                  Anda melalui setiap langkah penting dalam menghadapi ujian
-                  yang menentukan ini. Dengan kurikulum terkini, bank soal
-                  terpercaya, <strong>tescpns.online </strong>
+                  <strong>JagoCPNS</strong>! Kami hadir untuk membimbing Anda
+                  melalui setiap langkah penting dalam menghadapi ujian yang
+                  menentukan ini. Dengan kurikulum terkini, bank soal
+                  terpercaya, <strong>JagoCPNS </strong>
                   menjadi mitra terpercaya Anda.
                 </p>
               </div>

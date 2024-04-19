@@ -49,7 +49,7 @@ export default function Features() {
   return (
     <div className='flex flex-col my-5 p-8'>
       <h1 className='text-2xl font-semibold mb-4'>
-        Mengapa harus ikut Tes CPNS Online?
+        Mengapa harus ikut JagoCPNS?
       </h1>
       <Wrap spacing='30px'>
         {featureData.map((feature, index) => (

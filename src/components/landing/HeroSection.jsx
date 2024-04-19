@@ -12,12 +12,12 @@ export default function HeroSection() {
         <div className='flex flex-col justify-center p-6  rounded-sm lg:max-w-md xl:max-w-lg text-left'>
           <h1 className='text-5xl font-bold leadi sm:text-6xl'>
             Tryout CPNS 2024 Gratis di
-            <span className='text-orange-600'> tescpns</span>.online
+            <span className='text-orange-600'> Jago</span>CPNS
           </h1>
           <p className='mt-6 mb-8 text-lg sm:mb-12'>
             "Sukses di Ujian CPNS 2024 Dimulai di Sini! Temukan Kemampuan Sejati
-            Anda dengan Tes Online Terbaik di tescpns.online - Persiapkan Diri
-            Anda untuk Masa Depan PNS yang Gemilang!"
+            Anda dengan Tes Online Terbaik di jagocpns - Persiapkan Diri Anda
+            untuk Masa Depan PNS yang Gemilang!"
           </p>
           <div className='flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start'>
             <a

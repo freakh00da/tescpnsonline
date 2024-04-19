@@ -120,7 +120,7 @@ export default function Footer() {
       <div className='py-6 text-sm text-center text-gray-600'>
         © 2024{' '}
         <a href='/' className='text-blue-500'>
-          tescpns.online
+          jagocpns
         </a>
         . All rights reserved.
       </div>

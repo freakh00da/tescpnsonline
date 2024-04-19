@@ -14,7 +14,7 @@ export default function Home() {
         <Head>
           <meta name='description' content='Tryout CPNS 2024 Gratis' />
           <link rel='icon' href='/icon.ico' />
-          <title>Tes CPNS Online</title>
+          <title>Jago CPNS</title>
         </Head>
         <div className='fixed top-0 left-0 right-0 z-10'>
           <HeaderLanding />
